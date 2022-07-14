@@ -1,4 +1,4 @@
-module.exports = function reverse (n) {
+module.exports = function reverse (n){
     let s = '' + Math.abs(n);
     let str = '';
     let i = s.length;
